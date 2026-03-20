@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "MAKE UP YOUR MIND",
+  "base_artist": "WAIN L",
+  "createdAt": "2026-03-20T09:10:35.340921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "MxPx",
+      "has_synced": true,
+      "path": "select/01_Make_Up_Your_Mind_MxPx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Make up your mind",
+      "artist": "Ailee",
+      "has_synced": true,
+      "path": "select/02_Make_up_your_mind_Ailee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Make up your mind",
+      "artist": "에일리",
+      "has_synced": true,
+      "path": "select/03_Make_up_your_mind_에일리.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Bro’Sis",
+      "has_synced": false,
+      "path": "select/04_Make_Up_Your_Mind_Bro’Sis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Quatermass",
+      "has_synced": false,
+      "path": "select/05_Make_Up_Your_Mind_Quatermass.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Cordae",
+      "has_synced": true,
+      "path": "select/06_Make_Up_Your_Mind_Cordae.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Trash",
+      "has_synced": false,
+      "path": "select/07_Make_Up_Your_Mind_Trash.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/08_Make_Up_Your_Mind_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Stiv Bators",
+      "has_synced": false,
+      "path": "select/09_Make_Up_Your_Mind_Stiv_Bators.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Make Up Your Mind?",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/10_Make_Up_Your_Mind_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Swayzak",
+      "has_synced": false,
+      "path": "select/11_Make_Up_Your_Mind_Swayzak.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Make up Your Mind",
+      "artist": "Florian Picasso",
+      "has_synced": true,
+      "path": "select/12_Make_up_Your_Mind_Florian_Picasso.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make up Your Mind",
+      "artist": "A-Reece",
+      "has_synced": false,
+      "path": "select/13_Make_up_Your_Mind_A-Reece.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Tyrese",
+      "has_synced": true,
+      "path": "select/14_Make_Up_Your_Mind_Tyrese.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Make Up Your Mind",
+      "artist": "Bators, Stiv",
+      "has_synced": false,
+      "path": "select/15_Make_Up_Your_Mind_Bators,_Stiv.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make Up Your Mind - Extended Mix",
+      "artist": "Wain L",
+      "has_synced": false,
+      "path": "select/pl_01_Make_Up_Your_Mind_-_Extended_Mix_Wain_L.txt"
+    }
+  ]
+}
