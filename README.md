@@ -1,0 +1,93 @@
+# WAIN L – MAKE UP YOUR MIND
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Will you be the tonight
+the man I used to know
+And used to be my real true
+love
+Will you be the one
+to hold me, will you be the one
+To love me more and more
+I'll show you the way
+how to believe in what you feel
+Oh I may be right,
+I may be wrong
+Even the things I can't explain
+Are heading for something
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Baby see tonight the moon is
+just as bright and clear
+As when we fell in love
+All around is dark so baby
+Open up your eyes and gaze at
+(the) stars above
+I'll show you the way
+how to believe in what you feel
+Oh I may be right,
+I may be wrong
+Even the things I can't explain
+Are heading for something
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Will you be the tonight
+the man I used to know
+And used to be my real true
+love
+Will you be the one
+to hold me, will you be the one
+To love me more and more
+I'll show you the way
+how to believe in what you feel
+Oh I may be right,
+I may be wrong
+Even the things I can't explain
+Are heading for something
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Will you be the one
+to hold me, will you be the one
+To love me more and more
+I'll show you the way -
+what you feel
+Oh I may be right -
+I can't explain
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+Baby MAKE UP YOUR MIND
+Follow your dreams
+until the night is over
+Baby MAKE UP YOUR MIND
+Follow your heart
+and do it like a dreamer
+```
